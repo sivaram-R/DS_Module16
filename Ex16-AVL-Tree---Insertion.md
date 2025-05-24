@@ -1,5 +1,5 @@
 # Ex4(A) AVL Tree - Insertion
-## DATE:24/03/2025
+## DATE:
 ## AIM:
 To write a C function to insert the elements in an AVL Tree.
 
@@ -14,13 +14,11 @@ To write a C function to insert the elements in an AVL Tree.
 8. End   
 
 ## Program:
-
-Program to insert the elements in an AVL Tree
-# Developed by: Jayamani R
-# RegisterNumber: 212222100014
-*/
 ```
-PROGRAM : 
+Program to insert the elements in an AVL Tree
+Developed by: SIVARAM R
+RegisterNumber: 212222100050
+
 node * insert(node *T,int x) 
 { 
 if(T==NULL) 

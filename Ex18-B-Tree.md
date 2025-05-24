@@ -1,5 +1,5 @@
 # Ex4(C) B-Tree
-## DATE:07/04/2025
+## DATE:
 ## AIM:
 To write a C function to delete an element in a B Tree.
 ## Algorithm
@@ -14,12 +14,11 @@ first linker child.
 7. End  
 
 ## Program:
-
-Program to write a C function to delete an element in a B Tree
-# Developed by: Jayamani R
-# RegisterNumber: 212222100014 
-
 ```
+Program to write a C function to delete an element in a B Tree
+Developed by: SIVARAM R
+RegisterNumber: 212222100050
+
 struct BTreeNode{
 int item[MAX+1], count;
 struct BTreeNode*linker[MAX+1];

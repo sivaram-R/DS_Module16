@@ -1,5 +1,5 @@
 # Ex4(E) AVL Tree - Deletion
-## DATE:19/04/2025
+## DATE:
 ## AIM:
 To write a C function to delete an element from an AVL Tree.
 ## Algorithm
@@ -11,12 +11,11 @@ To write a C function to delete an element from an AVL Tree.
 6. Continue until the tree is balanced again.    
 
 ## Program:
-
-Program to find and display the priority of the operator in the given Postfix expression
-# Developed by: Jayamani R
-# RegisterNumber: 212222100014
-
 ```
+Program to find and display the priority of the operator in the given Postfix expression
+Developed by: SIVARAM R
+RegisterNumber: 212222100050
+
 node * Delete(node *T,int x)
 {
 node *p; if(T==NULL)

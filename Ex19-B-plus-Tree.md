@@ -1,5 +1,5 @@
 # Ex4(D) B+ Tree
-## DATE:12/04/2025
+## DATE:
 ## AIM:
 To write a C function to traverse the elements in a B+ Tree.
 
@@ -13,12 +13,11 @@ To write a C function to traverse the elements in a B+ Tree.
 7. End 
 
 ## Program:
-
-Program to traverse the elements in a B+ Tree.
-Developed by: Jayamani R
-RegisterNumber: 212222100014 
-
 ```
+Program to traverse the elements in a B+ Tree.
+Developed by: SIVARAM R
+RegisterNumber: 212222100050
+
 struct B_TreeNode
 {
 int*data;

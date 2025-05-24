@@ -1,5 +1,5 @@
 # Ex4(B) AVL Tree – Rotation
-## DATE:29/03/2025
+## DATE:
 ## AIM:
 To write a C function to perform right rotation in an AVL Tree.
 
@@ -15,8 +15,8 @@ To write a C function to perform right rotation in an AVL Tree.
 ## Program:
 ```
 Program to perform right rotation in AVL Tree
-Developed by: Jayamani R
-RegisterNumber:  212222100014
+Developed by: SIVARAM R
+RegisterNumber:  212222100050
 ```
 ```
 typedefstruct node
